@@ -9,6 +9,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@marvr/storyblok-rich-text-vue-renderer": "^2.0.1",
+    "@tailwindcss/typography": "^0.2.0",
+    "@vue/composition-api": "^1.0.0-beta.15",
     "core-js": "^3.6.5",
     "dotenv": "^8.2.0",
     "nuxt": "^2.14.6",
