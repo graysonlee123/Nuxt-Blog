@@ -8,7 +8,7 @@
           </nuxt-link>
         </li>
         <li>
-          <nuxt-link class="text-teal-600 hover:underline" to="/en/blog">
+          <nuxt-link class="text-teal-600 hover:underline" to="/articles">
             Blog
           </nuxt-link>
         </li>
@@ -24,12 +24,12 @@
     <nav>
       <ul>
         <li>
-          <nuxt-link class="text-teal-600 hover:underline" to="/en/blog">
+          <nuxt-link class="text-teal-600 hover:underline" to="/en">
             English
           </nuxt-link>
         </li>
         <li>
-          <nuxt-link class="text-teal-600 hover:underline" to="/de/blog">
+          <nuxt-link class="text-teal-600 hover:underline" to="/de/">
             German
           </nuxt-link>
         </li>
